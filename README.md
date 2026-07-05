@@ -4,6 +4,7 @@ An interactive sales dashboard built in Excel to analyze 1,000 coffee orders acr
 
 ![Dashboard overview](coffee_sales_dashboard.png)
 
+
 ## The business question
 
 A coffee retailer wants to know: which products, markets, and customers are actually driving revenue, and where should marketing dollars go next. This dashboard answers that from raw transaction data with zero manual reporting.
