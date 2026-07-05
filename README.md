@@ -2,7 +2,7 @@
 
 An interactive sales dashboard built in Excel to analyze 1,000 coffee orders across three years, using PivotTables, PivotCharts, and slicers to let a user filter sales by coffee type, roast, country, and loyalty status without touching a formula.
 
-![Dashboard overview](screenshots/dashboard-overview.png)
+![Dashboard overview](coffee_sales_dashboard.png)
 
 ## The business question
 
